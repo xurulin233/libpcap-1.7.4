@@ -1,6 +1,6 @@
 tar -zxvf libpcap-1.7.4.tar.gz
 cd libpcap-1.7.4
-./congigure
+./configure
 make V=s
 
 
